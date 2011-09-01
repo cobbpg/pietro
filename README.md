@@ -21,4 +21,4 @@ Controls:
 
 [1]: http://www.foddy.net/Athletics.html
 [2]: http://code.google.com/p/box2dhx/
-[3]: http://sgate.emt.bme.hu/patai/misc/pietro.html
+[3]: http://cobbpg.github.com/pietro/
